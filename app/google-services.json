@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "856778680116",
+    "firebase_url": "https://studtest-a7bd0-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "studtest-a7bd0",
+    "storage_bucket": "studtest-a7bd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856778680116:android:aae89ed124eb561e196761",
+        "android_client_info": {
+          "package_name": "com.example.studtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856778680116-mkal7b5dkr6vu6m1qns4c54tel0ib0oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9gWygzeeST_LMEq2y9rRnEjRjex0I_fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856778680116-mkal7b5dkr6vu6m1qns4c54tel0ib0oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
